@@ -11,12 +11,11 @@ The data is stored in a file called "Clients.txt"
 - tails.
 - Perform basic validation of input data.
 
-🔐 Additional Features (Enhanced Functionality)
-User Login System with username and password.
 
-Deposit Operation – Add funds to a client’s account.
+---
 
-Withdraw Operation – Deduct funds from a client’s account.
-
-Total Balance Calculation – Show the sum of all client balances.
-
+## 🔐 Additional Features *(Enhanced Functionality)*
+- **User Login System** with username and password.  
+- **Deposit Operation** – Add funds to a client’s account.  
+- **Withdraw Operation** – Deduct funds from a client’s account.  
+- **Total Balance Calculation** – Show the sum of all client balances.
